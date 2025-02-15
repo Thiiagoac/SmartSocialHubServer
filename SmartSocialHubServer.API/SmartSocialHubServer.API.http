@@ -1,0 +1,6 @@
+@SmartSocialHubServer.API_HostAddress = http://localhost:5134
+
+GET {{SmartSocialHubServer.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
