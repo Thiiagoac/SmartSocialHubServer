@@ -99,3 +99,9 @@ SmartSocialHubServer.Application/obj/
 SmartSocialHubServer.Domain/obj/
 
 SmartSocialHubServer.Infrastructure/obj/
+
+docker-compose.yml
+
+SmartSocialHubServer.API/appsettings.Development.json
+
+SmartSocialHubServer.API/appsettings.json
