@@ -1,0 +1,93 @@
+# Geral
+*.user
+*.lock
+*.DS_Store
+*.swp
+*.suo
+*.plist
+*.tmp
+*.log
+*.bak
+*.old
+*.orig
+
+# Pastas e arquivos de Build e Publish
+[Bb]in/
+[Oo]bj/
+app.publish/
+out/
+
+# Logs
+*.log
+**/logs/
+**/Logs/
+
+# Pacotes
+*.nupkg
+*.snupkg
+*.symbols.nupkg
+packages/
+.nuget/
+
+# Resharper / Rider
+*.DotSettings.user
+_ReSharper.Caches/
+*.sln.DotSettings
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Visual Studio
+*.user
+*.userosscache
+*.suo
+*.vbpscc
+*.vssscc
+*.pdb
+.vs/
+
+# Teste, Coverage e Análise
+TestResults/
+Coverage/
+*.coverage
+*.coveragexml
+*.coverage.json
+*.testsettings
+*.vsmdi
+*.vsp
+*.vspx
+*.tmh
+*.trx
+
+# Configurações de Segurança / Segredos
+appsettings.*.local.json
+secrets.json
+.env
+
+# Docker
+**/Dockerfile*
+docker-compose.*.yml
+!docker-compose.yml
+*.dockerignore
+
+# DataProtection Keys
+**/DataProtection-Keys/
+
+# Mac / Linux
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+*.swp
+*.swo
+Thumbs.db
+
+# Node
+node_modules/
+npm-debug.log
+yarn.lock
+package-lock.json
+
+# JetBrains Rider
+.idea/

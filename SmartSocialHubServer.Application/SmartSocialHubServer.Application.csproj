@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\SmartSocialHubServer.Domain\SmartSocialHubServer.Domain.csproj" />
+    <ProjectReference Include="..\SmartSocialHubServer.Infrastructure\SmartSocialHubServer.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>
