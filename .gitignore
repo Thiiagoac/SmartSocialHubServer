@@ -91,3 +91,11 @@ package-lock.json
 
 # JetBrains Rider
 .idea/
+
+SmartSocialHubServer.API/obj/
+
+SmartSocialHubServer.Application/obj/
+
+SmartSocialHubServer.Domain/obj/
+
+SmartSocialHubServer.Infrastructure/obj/
